@@ -664,3 +664,7 @@ License: https://www.wowthemes.net/freebies-license/
 .sticky-top-80 {
     top:80px;
 }
+
+#lunrsearchresults {
+    display: none;
+}
