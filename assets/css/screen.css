@@ -185,7 +185,7 @@ License: https://www.wowthemes.net/freebies-license/
      font-size:0.8rem;
      border-radius:30px;
      overflow:hidden;
-     border:1px solid rgba(0,0,0,0.04);
+     border:1px solid rgba(0,0,0,0.2);
      min-width: 180px;
 }
  .mediumnavigation .form-inline {
@@ -668,3 +668,17 @@ License: https://www.wowthemes.net/freebies-license/
 #lunrsearchresults {
     display: none;
 }
+
+.bd-search {
+    position: relative;
+}
+
+.bd-search label {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    opacity: 0.5;
+    margin: 0;
+    cursor: pointer;
+}
+
