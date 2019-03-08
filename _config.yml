@@ -13,6 +13,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink: /:title/
 community_url: 'https://community.coinsence.org'
+with_featured: false
 
 # Authors
 authors:
