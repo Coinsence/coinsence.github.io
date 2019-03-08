@@ -25,14 +25,14 @@ authors:
     description: "All hail His Grace, Mortadha of House Ghanmi, First of His Name, King of the Sandals and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. :joy: :joy: :joy:"
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
   - jemoji
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -40,11 +40,17 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
-highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true

@@ -1,8 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-Version: 1.0.24
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
  .mainheading {
      padding:1rem 0rem;
@@ -16,18 +15,20 @@ License: https://www.wowthemes.net/freebies-license/
      text-decoration:none;
 }
  pre {
-     -moz-box-sizing: border-box;
-     box-sizing: border-box;
-     margin: 0 0 1.75em 0;
-     border: #E3EDF3 1px solid;
-     width: 100%;
-     padding: 10px;
-     font-family: monospace, sans-serif;
-     font-size: 14px;
-     white-space: pre;
-     overflow: auto;
-     background: #F7FAFB;
-     border-radius: 3px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: #E3EDF3 1px solid;
+    width: 100%;
+    padding: 7px;
+    font-family: monospace, sans-serif;
+    font-size: 14px;
+    white-space: pre;
+    overflow: auto;
+    background: #fff;
+    border-radius: 0px;
+    line-height: 1.6;
+    color:#333;
+     margin-bottom:-rem;
 }
  .mediumnavigation {
      background:rgba(255,255,255,.97);
@@ -119,7 +120,7 @@ License: https://www.wowthemes.net/freebies-license/
  .listfeaturedtag h4.card-text,.listrecent h4.card-text {
      color:rgba(0,0,0,.44);
      font-size:0.95rem;
-     line-height:1.4;
+     line-height:1.6;
      font-weight:400;
 }
  .wrapfooter {
@@ -588,7 +589,7 @@ License: https://www.wowthemes.net/freebies-license/
  iframe {
     max-width:100%;
 }
-.transpdark {    
+.transpdark {
     background: rgba(0,0,0,0.75);
     color: #fff;
 }
@@ -610,7 +611,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin:0;
     }
 }
-.jumbotron.fortags { 
+.jumbotron.fortags {
          margin-top: 3rem;
          padding:0;
          border-radius:0;
@@ -665,6 +666,36 @@ License: https://www.wowthemes.net/freebies-license/
     top:80px;
 }
 
+.spoiler {
+    color: transparent;
+    text-shadow:0 0 10px rgba(0,0,0,0.2);
+    transition: all .4s;
+    cursor:pointer;
+    position:relative;
+}
+.spoiler:after {
+    position:absolute;
+    opacity:0;
+    content:'Click to reveal spoiler';
+    top:45%;
+    left:calc(50% - 100px);
+    text-shadow:none;
+    background:#222;
+    color:#fff;
+    display:inline-block;
+    font-size:13px;
+    line-height:1;
+    padding:2px 3px;
+    width:150px;
+    font-family:Arial;
+    text-align:center;
+    border-radius:3px;
+    transition: all .4s;
+}
+.spoiler:hover:after {
+    opacity:1;
+}
+
 #lunrsearchresults {
     display: none;
 }
@@ -681,4 +712,3 @@ License: https://www.wowthemes.net/freebies-license/
     margin: 0;
     cursor: pointer;
 }
-
