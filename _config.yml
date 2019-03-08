@@ -14,6 +14,7 @@ include: ["_pages"]
 permalink: /:title/
 community_url: 'https://community.coinsence.org'
 with_featured: false
+with_categories: false
 
 # Authors
 authors:
