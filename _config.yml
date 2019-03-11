@@ -13,6 +13,7 @@ url: 'https://coinsence.github.io'
 include: ["_pages"]
 permalink: /:title/
 community_url: 'https://community.coinsence.org'
+about_url: 'https://coinsence.org/#about'
 with_featured: false
 with_categories: false
 
