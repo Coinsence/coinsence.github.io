@@ -26,7 +26,15 @@ authors:
     email: mortadha.ghanmi56@gmail.com
     web: https://example.com
     twitter: https://twitter.com/gmor93
-    description: "All hail His Grace, Mortadha of House Ghanmi, First of His Name, King of the Sandals and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. :joy: :joy: :joy:"
+    description: "Fullstack developer and a GameR :bowtie:"
+  seif:
+    name: Seif
+    display_name: Seif
+    gravatar: 3fd75e4ed0d0245fc2effe4756c79e8c
+    email: Seif@coinsence.org
+    web: https://www.linkedin.com/in/seif-badri
+    twitter: https://twitter.com/badri_seif
+    description: "Alternative economy and blockchain enthusiast"
 
 # Plugins
 plugins:
