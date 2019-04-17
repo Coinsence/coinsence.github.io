@@ -8,6 +8,7 @@ featured: false
 ---
 
 On currency notes, we used to see politicians, military leaders, queens and kings such as George Washington, Mustafa Kemal Ataturk, Al-Khomeini, Mao-zedong and David Bowie. Yes David Bowie. [The oddity](https://www.youtube.com/watch?v=9_M3uw29U1U) of such a thing led me to dig into this currency.
+
 David Jones, spent his years in the southwest of London, district of Brixton which is known by its social instability, violent riots and [rebel](https://www.youtube.com/watch?v=U16Xg_rQZkA) positions.
 Today the community is rapidly renovating and improving and the [Brixton Pound](http://brixtonpound.org/) is one of its more interesting socioeconomic experiments.
 
