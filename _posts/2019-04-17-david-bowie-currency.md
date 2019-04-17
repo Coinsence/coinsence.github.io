@@ -3,7 +3,7 @@ layout: post
 title:  "David Bowie currency"
 author: seif
 categories: []
-image: http://communitycurrenciesinaction.eu/wp-content/uploads/2014/09/ldfbp.jpg
+image: assets/images/posts/2.jpg
 featured: false
 ---
 
