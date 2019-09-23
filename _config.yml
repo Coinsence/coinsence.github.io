@@ -34,6 +34,14 @@ authors:
     web: https://www.linkedin.com/in/seif-badri
     twitter: https://twitter.com/badri_seif
     description: "Alternative economy and blockchain enthusiast"
+  sarra:
+    name: Sarra
+    display_name: Sarra turki
+    avatar: 'assets/images/avatars/sarra.jpg'
+    email: sara04240@gmail.com
+    web: https://www.linkedin.com/in/sarra-turki-909193b1/
+    twitter: https://www.facebook.com/sara.turki.165
+    description: "A recent graduate in IR studies with a special interest in the socio-economic development in the African Continent."
 
 # Plugins
 plugins:
