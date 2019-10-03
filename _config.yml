@@ -18,14 +18,14 @@ with_categories: false
 
 # Authors
 authors:
-  craxrev:
-    name: Mortadha
-    display_name: Mortadha
-    gravatar: 9c67e3fa9e2fe00b9d99914ccdb371fe
-    email: mortadha.ghanmi56@gmail.com
-    web: https://example.com
-    twitter: https://twitter.com/gmor93
-    description: "Fullstack developer and a GameR :bowtie:"
+  team:
+    name: team
+    display_name: Coinsence team
+    avatar: 'assets/images/avatars/team.png'
+    email: info@coinsence.org
+    web: https://coinsence.org
+    twitter: https://community.coinsence.org
+    description: "A thriving community of change makers connected via Coinsence.org to empower everyone through blockchain based community currencies."
   seif:
     name: Seif
     display_name: Seif
