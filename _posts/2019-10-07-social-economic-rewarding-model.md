@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Throwback: Coinsence as a Social-Economic Rewarding Model for the “Enfant creature” Initiative."
-author: team
+author: sarra
 categories: []
 image: assets/images/posts/6.jpg
 featured: false
