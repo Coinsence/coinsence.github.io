@@ -7,7 +7,7 @@ image: assets/images/posts/7.jpg
 featured: false
 ---
 
-_Tunisia, on 10/10/2019,_
+_Press release. Tunisia, on 10/10/2019,_
 
 **Coinsence** is one of three projects in the world selected to receive Ethereum funds from the new established UNICEF Cryptocurrency Fund. This Cryptocurrency Fund aims to support open-source technologies such as Blockchain to help children and youth around the world to enjoy a better life.
 
