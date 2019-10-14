@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Throwback: Coinsence as a Social-Economic Rewarding Model for the “Enfant creature” Initiative."
+title:  "Throwback: Coinsence as a Social-Economic Rewarding Model for the “Enfant Créateur” Initiative."
 author: sarra
 categories: []
 image: assets/images/posts/6.jpg
@@ -34,4 +34,4 @@ In this respect, it will be great to see more Tunisian NGOs, Grassroots associat
 
 **Join [Coinsense.org](https://coinsence.org/) and fund your project now.**
 
-_Special thanks for Coinsence community-engaged partners who took part in the ‘Enfant Createur” Project and made it happen; SOS Akouda, AIESEC Hadrumet, JCI Sousse, JCI H.S, Tomorrow’s generation, Sawty Sousse, L’association des Amis de la créativité, Hive12, Makerlab, Elfabspace._
+_Special thanks for Coinsence community-engaged partners who took part in the ‘Enfant Créateur” Project and made it happen; SOS Akouda, AIESEC Hadrumet, JCI Sousse, JCI H.S, Tomorrow’s generation, Sawty Sousse, L’association des Amis de la créativité, Hive12, Makerlab, Elfabspace._
