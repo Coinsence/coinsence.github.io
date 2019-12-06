@@ -7,7 +7,7 @@ image: assets/images/posts/9.jpg
 featured: false
 ---
 
-Are you a Blockchain enthusiast? Do ou believe in the power of decentralization in creating value and empowering communities? Do you care about social and environmental impact?
+Are you a Blockchain enthusiast? Do you believe in the power of decentralization in creating value and empowering communities? Do you care about social and environmental impact?
 This global challenge is for you!
 
 ##### Background
