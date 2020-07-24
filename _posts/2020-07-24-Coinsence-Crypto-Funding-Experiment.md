@@ -20,15 +20,15 @@ At the end of 2019, Coinsence received the fund ‘Ethereum Crypto Funding’ fr
 
 With the help of the tests performed, we were able to identify a range of challenges that arise when involving communities in decision making and supporting projects using crypto funding. From these, we identified the following key questions we need to ask when initiating an active and impactful decentral network:  
 
-**1-	What is the value of the offered crypto currency?**
+**1-	What is the value of the offered crypto currency?
 
 As most people are not used to deal with crypto, many might be sceptic or confused when offered funding in crypto. Especially in countries with no official ways to convert crypto into local currencies, it is necessary to engage local crypto investors or business partners who can provide goods and services in exchange of crypto currencies. This helps to build confidence in the offered token. **The benefits of collecting and using ETH must be very clear before starting any campaign to engage partners and projects.**
 
-**2-	What is the goal and target community when offering crypto funding?**
+**2-	What is the goal and target community when offering crypto funding?
 
 In order to start mobilizing partners and reach the right community members, it is essential to start by clearly defining the challenges that we intent to address with the target project. Based on this starting point, the relevant partners can get involved and the criteria for the support of projects (maturity, impact,…) and for participation of voters (experience, expertise, reputation…) can be developed in an iterative process. In addition, communication and community engagement plans can be optimized.  
 
-**3-	Who are the partners and multiplicators that can help reach the target groups?**
+**3-	Who are the partners and multiplicators that can help reach the target groups?
 
 The effort to promote a crypto funding campaign is quite high, especially when targeting selected project types and voting groups. Having the right partners like associations, incubation hubs and established networks can help reaching and mobilizing the right groups. Here, **the selection of right partners and the creation of the suitable incentive model for multiplicators and supporters are crucial to ensure an effective campaign.**
 
