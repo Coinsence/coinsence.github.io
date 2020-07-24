@@ -42,6 +42,13 @@ authors:
     web: https://www.linkedin.com/in/sarra-turki-909193b1/
     twitter: https://www.facebook.com/sara.turki.165
     description: "A recent graduate in IR studies with a special interest in the socio-economic development in the African Continent."
+  karim:
+    name: Karim
+    display_name: Kaim Chabrak
+    avatar: 'assets/images/avatars/Karim.jpg'
+    email: karim@coinsence.org
+    web: https://www.linkedin.com/in/karim-chabrak-57815677
+    description: "Founder Coinsence.org"
 
 # Plugins
 plugins:
